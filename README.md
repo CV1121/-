@@ -1,6 +1,6 @@
 # MCMM: 基于多列卷积与无矩阵乘法Transformer的垃圾检测与分类框架
 
-Search the Paper https://doi.org/10.1177/14727978251366534
+Search the Paper: [https://doi.org/10.1177/14727978251366534]
 
 ## 项目简介
 MCMM（Multi-column Convolution based MatMul-free Modeling）是一个专为实时垃圾检测与分类设计的高效框架。该框架创新性地结合了**多列卷积**与**无矩阵乘法（MatMul-free）Transformer**，在保证高检测精度的同时，显著降低计算复杂度，适用于资源受限的边缘设备与实时场景。
