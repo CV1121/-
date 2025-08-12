@@ -27,6 +27,6 @@ MCMM的核心架构包含两个创新模块：
    - 采用KAN（Kolmogorov-Arnold Networks）替代传统MLP，优化特征融合
    - 基于BitNet的三元权重设计，消除矩阵乘法，大幅降低计算开销
 
-![MCMM框架图] 
+[MCMM框架图] 
 <img width="900" height="319" alt="image" src="https://github.com/user-attachments/assets/b5bd5c5c-6ed6-4ea4-9d41-821c64e46db0" />
 
