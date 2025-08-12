@@ -1,2 +1,3 @@
 # -
-A real-time garbage detection method
+A real-time garbage detection and sorting method
+search the article https://doi.org/10.1177/14727978251366534
